@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shikhar Khandelwal
 ==========================================================================================================================================
 
-Frontend Developer
+CSE Grad
 ------------------
 
-I am a frontend developer who loves React!
+I am a developer who loves Frontend!
 
 * 🌍  I'm based in Jaipur
 * ✉️  You can contact me at [skykunnu@gmail.com](mailto:skykunnu@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning full stack development
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Stay Hungry and Stay Curious
 
