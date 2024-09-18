@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CSE Grad
 ------------------
 
-I am a developer who loves Frontend!
+I am a Software developer who loves Frontend!
 
 * 🌍  I'm based in Jaipur
 * ✉️  You can contact me at [skykunnu@gmail.com](mailto:skykunnu@gmail.com)
