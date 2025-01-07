@@ -8,7 +8,7 @@ I am a Software developer who loves Frontend!
 
 * 🌍  I'm based in Jaipur
 * ✉️  You can contact me at [skykunnu@gmail.com](mailto:skykunnu@gmail.com)
-* 🧠  I'm learning full stack development
+* 🧠  I'm learning full-stack development
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Stay Hungry and Stay Curious
 
