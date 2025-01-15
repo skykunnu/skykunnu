@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shikhar Khandelwal
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shikhar Khandelwal
 
 I did my bachelor's in Computer Science & Engineering from Jaypee University of Information Technology. I am a tech enthusiast who loves to explore technology, and I am currently doing front-end stuff the most and also exploring stuff other than technology.   
 ==========================================================================================================================================
