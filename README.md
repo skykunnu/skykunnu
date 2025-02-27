@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shikhar Khandelwal
 
-I did my bachelor's in Computer Science & Engineering from Jaypee University of Information Technology. I am a tech enthusiast who loves to explore technology, and I am currently doing front-end stuff the most and also exploring stuff other than technology.   
+I hold a Bachelor's degree in Computer Science & Engineering from Jaypee University of Information Technology. As a tech enthusiast, I love diving into new technologies and pushing my limits. Currently, I’m deep into front-end development while also exploring areas beyond tech. Always curious, always learning! 🚀   
 
 
 I am a Software developer who loves Frontend!
