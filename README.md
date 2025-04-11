@@ -10,7 +10,7 @@ I am a Software developer who loves Frontend!
 * 🧠  I'm learning full-stack development
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Stay Hungry and Stay Curious
-* My Portfolio :- [https://my-portfolio-rose-eight-24.vercel.app/#home]
+* My Portfolio :- https://my-portfolio-rose-eight-24.vercel.app/#home
 
 ### Skills
 
